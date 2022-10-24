@@ -34,9 +34,10 @@ b = int(input("Enter number B: "))
 
 sum = 0
 for each_num in range(a, b+1):
-    sum += each_num
+    if each_num % 2 == 0:
+        sum += each_num
 
-print(f"The sum of all numbers between {a} and {b} is: {sum}")
+print(f"The sum of all even numbers between {a} and {b} is: {sum}")
 
 
 
