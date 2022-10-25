@@ -18,11 +18,11 @@ a = int(input("Enter number A: "))
 b = int(input("Enter number B: "))
 c = int(input("Enter number C: "))
 
-if a > b and a > c:
+if a >= b and a >= c:
     max_num = a
-elif b > a and b > c:
+elif b >= a and b >= c:
     max_num = b
-elif c > a and c > b:
+elif c >= a and c >= b:
     max_num = c
 
 print(f"The max number is: {max_num}")
