@@ -1,0 +1,9 @@
+Quality assurance is monitoring and preventing mistakes and defects during the engineering process to ensure a quality product or result.
+In software development, quality assurance is used to ensure that software creation and engineering maintain high-quality standards, processes, and procedures.
+The STAR method is an acronym for a four-step process to answering a question where you need to offer an example.
+You begin by providing a context for the situation, followed by the task or part you played in the event.
+Then you continue to elaborate on the action you took and the final result.
+Use a specific example and focus on a positive outcome where you improved the situation or learned a valuable lesson.
+An interviewer asks this question to test your understanding of the difference between testing and quality assurance.
+They're looking for a concise response that clearly defines the differences between the two roles.
+When responding to this question, use clear language without detailed industry jargon.
