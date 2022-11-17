@@ -52,7 +52,7 @@ n = input("How much numbers do you want to write down?: ")
 user_num = input(f"Enter {n} numbers: ").split()
 num_list = [int(num.replace(",", "")) for num in user_num]
 
-max_num = 0
+max_num = num_list[0]
 for num in num_list:
     if num > max_num:
         max_num = num
